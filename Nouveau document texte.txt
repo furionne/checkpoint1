@@ -1,0 +1,3 @@
+i learned the difference between internet and web and the connection between them . develepoment web for me is diviced by 2 things front and back .
+we have some many things we can use it to create application or web that help us , we will need databases so we need to learn how to use SQl then we can easily use javascript to create web .
+
